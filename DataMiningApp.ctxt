@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=DataMiningSummative
+comment1.params=
+comment1.target=DataMiningSummative()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=text\ fontSize\ fontStyle
+comment4.target=javax.swing.JLabel\ createLabel(java.lang.String,\ int,\ java.lang.String)
+comment5.params=fileName
+comment5.target=javax.swing.JLabel\ createImage(java.lang.String)
+comment6.params=text\ fontSize\ fontStyle\ width\ height\ r\ g\ b
+comment6.target=javax.swing.JButton\ createButton(java.lang.String,\ int,\ java.lang.String,\ int,\ int,\ int,\ int,\ int)
+comment7.params=button\ title\ information\ fontSize\ width\ height\ bannerName
+comment7.target=void\ openFrame(javax.swing.JButton,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
